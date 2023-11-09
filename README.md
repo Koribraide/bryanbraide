@@ -1,7 +1,5 @@
-[![MasterHead](https://media.tenor.com/6C9zNjR3uB0AAAAC/onyankopon-onyan.gif)]
 <h1 align="center">Hi 👋, I'm Bryan Braide</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koribraide&label=Profile%20views&color=0e75b6&style=flat" alt="koribraide" /> </p>
 
